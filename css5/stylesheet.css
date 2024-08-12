@@ -1,0 +1,14 @@
+h1{
+    color: darkgreen;
+    background-color: azure;
+}
+h3{
+    a{
+        color: darkolivegreen;
+    }
+}
+h4{
+    a{
+        color: coral;
+    }
+}
